@@ -23,6 +23,7 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "@nemesis-oss/binance-sdk": "file:../sdk/binance-client-ts",
     "uuid": "^9.0.1",
     "ws": "^8.16.0"
   },
